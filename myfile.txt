@@ -1,6 +1,5 @@
 Java is an object oriented programming language and Java was developed by oracle
 
 Java was developed by oracle
-Java was accquired by sun microsystem
-There are 15 versions of java
+Java was accquired by sun microsystem and There are 15 versions of java
 Java is a robust language
